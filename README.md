@@ -1,4 +1,12 @@
 # shapeup
+
+ 2026/02/16 - Note to self: I uploaded code for a student who missed a week of class, so this repo needs to be reset before the start of the 2027 semester
+
+
+
+
+
+
  
  This project contains the starter files for the in-class coding project that we will be working on together over the next few weeks. 
 
